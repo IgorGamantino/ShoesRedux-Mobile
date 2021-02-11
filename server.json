@@ -1,0 +1,142 @@
+
+
+{
+  "promotions":[
+    {
+      "id": 2,
+      "title": "Nike Flywire",
+      "price": 340.00,
+      "subprice": "390,00",
+      "image": "https://ik.imagekit.io/igorgamantino/NikeFlywire_3x_Xp8oOjq56A.png"
+    },
+    {
+      "id": 3,
+      "title": "Nike Vaporflys",
+      "subprice": "280,00",
+      "price": 230.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikecaminhada__2__2JzuupoGi4.png"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Aqua ",
+      "subprice": "350,00",
+      "price": 350.00,
+      "image": "https://ik.imagekit.io/igorgamantino/NikeAirMaxAqua__3__wSP9_SMvX.png"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Caminhada",
+      "price": 230.90,
+      "image": "https://ik.imagekit.io/igorgamantino/nike_2x_to3x4vV0I.png"
+    },
+    {
+      "id": 2,
+      "title": "Nike Flywire",
+      "price": 340.00,
+      "subprice": "390,00",
+      "image": "https://ik.imagekit.io/igorgamantino/NikeFlywire_3x_Xp8oOjq56A.png"
+    },
+    {
+      "id": 3,
+      "title": "Nike Vaporflys",
+      "subprice": "280,00",
+      "price": 230.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikecaminhada__2__2JzuupoGi4.png"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Aqua ",
+      "subprice": "350,00",
+      "price": 350.00,
+      "image": "https://ik.imagekit.io/igorgamantino/NikeAirMaxAqua__3__wSP9_SMvX.png"
+    },
+    {
+      "id": 5,
+      "title": "Nike Neon Balada ",
+      "price": 370.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikeBaladaNeon__1__ek7xOvGqdy.png"
+    },
+    {
+      "id": 5,
+      "title": "Nike Air 720",
+      "price": 250.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikeAirMax720__2__EsnGQf6hf.png"
+    }
+  ],
+  "favorite": [
+    {
+      "id": 1,
+      "title": "Nike Caminhada",
+      "price": 290.90,
+      "image": "https://ik.imagekit.io/igorgamantino/nike_2x_to3x4vV0I.png"
+    },
+    {
+      "id": 2,
+      "title": "Nike Flywire",
+      "price": 20.90,
+      "image": "https://ik.imagekit.io/igorgamantino/NikeFlywire_3x_Xp8oOjq56A.png"
+    },
+    {
+      "id": 3,
+      "title": "Nike Vaporflys",
+      "price": 500.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikecaminhada__2__2JzuupoGi4.png"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Aqua ",
+      "price": 500.00,
+      "image": "https://ik.imagekit.io/igorgamantino/NikeAirMaxAqua__3__wSP9_SMvX.png"
+    },
+    {
+      "id": 5,
+      "title": "Nike Neon Balada ",
+      "price": 500.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikeBaladaNeon__1__ek7xOvGqdy.png"
+    },
+    {
+      "id": 6,
+      "title": "Nike Air 720",
+      "price": 500.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikeAirMax720__2__EsnGQf6hf.png"
+    }
+  ],
+  "Orders": [
+    {
+      "id": 1,
+      "title": "Nike Caminhada",
+      "price": 290.90,
+      "image": "https://ik.imagekit.io/igorgamantino/nike_2x_to3x4vV0I.png"
+    },
+    {
+      "id": 2,
+      "title": "Nike Flywire",
+      "price": 20.90,
+      "image": "https://ik.imagekit.io/igorgamantino/NikeFlywire_3x_Xp8oOjq56A.png"
+    },
+    {
+      "id": 3,
+      "title": "Nike Vaporflys",
+      "price": 500.00,
+      "image": "https://ik.imagekit.io/igorgamantino/nikecaminhada__2__2JzuupoGi4.png"
+    }
+
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "quantity": 1
+    }
+  ]
+}
