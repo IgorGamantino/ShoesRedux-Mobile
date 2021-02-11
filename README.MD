@@ -3,7 +3,7 @@
  ReduxShoes
 </br>
 
-<img src="./assets/public/screen.png">
+<img src="./assets/public/screen.PNG">
 
 </h1>
 
